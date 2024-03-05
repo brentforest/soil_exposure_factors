@@ -1,0 +1,36 @@
+﻿body weights represent median values for each age bracket,,,,
+sex,sex_decoded,age_range,age_lower_bracket,body_weight_kg
+2,female,Birth to <1 month ,0,4.6
+2,female,1 to <3 months ,0,5.5
+2,female,3 to <6 months ,0,7.2
+2,female,6 to <12 months ,0,8.9
+2,female,1 to <2 years ,1,11.1
+2,female,2 to <3 years,2,13.2
+2,female,3 to <6 years ,3,17.5
+2,female,6 to <11 years,6,29
+2,female,11 to <16 years ,11,53.3
+2,female,16 to <21 years ,16,61.5
+2,female,21 to <30 years,21,67.9
+2,female,30 to <40 years ,30,70.2
+2,female,40 to <50 years ,40,72.7
+2,female,50 to <60 years ,50,73.6
+2,female,60 to <70 years ,60,73.9
+2,female,70 to <80 years ,70,69
+2,female,Over 80 years,80,62.8
+1,male,Birth to <1 month ,0,4.8
+1,male,1 to <3 months ,0,6.1
+1,male,3 to <6 months ,0,7.5
+1,male,6 to <12 months ,0,9.4
+1,male,1 to <2 years ,1,11.5
+1,male,2 to <3 years,2,14
+1,male,3 to <6 years ,3,18.1
+1,male,6 to <11 years,6,29.6
+1,male,11 to <16 years ,11,55.5
+1,male,16 to <21 years ,16,73.1
+1,male,21 to <30 years,21,81.2
+1,male,30 to <40 years ,30,84
+1,male,40 to <50 years ,40,87.4
+1,male,50 to <60 years ,50,87.8
+1,male,60 to <70 years ,60,86.9
+1,male,70 to <80 years ,70,82.1
+1,male,Over 80 years,80,75.1

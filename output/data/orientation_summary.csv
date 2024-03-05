@@ -1,0 +1,31 @@
+activity,orientation,count
+Harvesting,bending_over,87
+Harvesting,kneeling,61
+Harvesting,other,13
+Harvesting,sitting,30
+Harvesting,standing,57
+Preparing beds,bending_over,50
+Preparing beds,kneeling,46
+Preparing beds,other,21
+Preparing beds,sitting,30
+Preparing beds,standing,70
+Seeding,bending_over,37
+Seeding,kneeling,22
+Seeding,other,14
+Seeding,sitting,19
+Seeding,standing,54
+Transplanting,bending_over,31
+Transplanting,kneeling,56
+Transplanting,other,5
+Transplanting,sitting,21
+Transplanting,standing,21
+Watering,bending_over,21
+Watering,kneeling,12
+Watering,other,19
+Watering,sitting,4
+Watering,standing,74
+Weeding,bending_over,59
+Weeding,kneeling,71
+Weeding,other,11
+Weeding,sitting,31
+Weeding,standing,43

@@ -1,0 +1,25 @@
+﻿soil_ingest_amt_code,soil_ingest_text,soil_ingest_fig,soil_ingest_mg/day
+1,<10 mg/day,"<A
+<10
+mg/day",5
+2,10 mg/day,"A
+10
+mg/day",10
+3,20 mg/day,"B
+20
+mg/day",20
+4,50 mg/day,"C
+50
+mg/day",50
+5,100 mg/day,"D
+100
+mg/day",100
+6,200 mg/day,"E
+200
+mg/day",200
+7,1000 mg/day,"F
+1000
+mg/day",1000
+8,>1000 mg/day,">F
+>1000
+mg/day",

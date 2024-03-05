@@ -1,0 +1,55 @@
+season,soil_ingest_amt_code,soil_ingest_text,soil_ingest_fig,count
+Fall,1.0,<10 mg/day,"<A
+<10
+mg/day",2
+Spring,1.0,<10 mg/day,"<A
+<10
+mg/day",8
+Summer,1.0,<10 mg/day,"<A
+<10
+mg/day",2
+Winter,1.0,<10 mg/day,"<A
+<10
+mg/day",4
+Fall,2.0,10 mg/day,"A
+10
+mg/day",1
+Spring,2.0,10 mg/day,"A
+10
+mg/day",5
+Summer,2.0,10 mg/day,"A
+10
+mg/day",3
+Winter,2.0,10 mg/day,"A
+10
+mg/day",2
+Fall,3.0,20 mg/day,"B
+20
+mg/day",3
+Spring,3.0,20 mg/day,"B
+20
+mg/day",2
+Winter,3.0,20 mg/day,"B
+20
+mg/day",2
+Summer,3.0,20 mg/day,"B
+20
+mg/day",3
+Spring,4.0,50 mg/day,"C
+50
+mg/day",1
+Fall,5.0,100 mg/day,"D
+100
+mg/day",1
+Summer,5.0,100 mg/day,"D
+100
+mg/day",3
+Spring,6.0,200 mg/day,"E
+200
+mg/day",1
+spring,7.0,1000 mg/day,"F
+1000
+mg/day",0
+spring,8.0,>1000 mg/day,">F
+>1000
+mg/day",0

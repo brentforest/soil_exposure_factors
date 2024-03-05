@@ -1,0 +1,179 @@
+attribute,n,mean,std,min,5%,25%,50%,75%,95%,max,specificity,season,activity,season_order
+body_weight_kg,38.0,78.91315789473683,7.389553292742892,67.9,69.855,72.7,81.2,86.9,87.8,87.8,by grower,n/a,n/a,
+farm_size_mean_ha,38.0,36.62566890665974,136.8372851174319,0.04451546,0.1330000539,1.011715,3.99627425,12.874073375,111.03572124999991,835.271904,by grower,n/a,n/a,
+consume_snacks_freq,19.0,19.736842105263158,26.718890748064705,2.0,2.45,4.0,6.0,26.5,90.0,90.0,"by grower, season",Spring,n/a,1.0
+consume_snacks_freq,16.0,9.4375,8.717558909083055,1.0,1.0,2.0,8.0,11.25,25.5,30.0,"by grower, season",Summer,n/a,2.0
+consume_snacks_freq,14.0,10.785714285714286,10.533306672196982,1.0,1.65,2.0,7.5,18.75,30.0,30.0,"by grower, season",Fall,n/a,3.0
+consume_snacks_freq,8.0,7.0625,7.3990226188521495,1.0,1.0,2.125,3.0,11.5,18.599999999999998,20.0,"by grower, season",Winter,n/a,4.0
+days_per_month_at_site,32.0,26.915625,6.070674983728293,8.7,13.485,25.012500000000003,30.45,30.45,30.45,30.45,"by grower, season",Spring,n/a,1.0
+days_per_month_at_site,31.0,25.854435483870972,6.818718529095643,4.35,9.7875,23.925,29.3625,30.45,30.45,30.45,"by grower, season",Summer,n/a,2.0
+days_per_month_at_site,29.0,20.700000000000003,9.07302959718685,4.35,4.35,15.224999999999998,21.75,26.1,30.45,30.45,"by grower, season",Fall,n/a,3.0
+days_per_month_at_site,32.0,17.06015625,11.242190585839877,0.0,1.19625,4.35,17.4,30.45,30.45,30.45,"by grower, season",Winter,n/a,4.0
+farm_size_by_season_ha,32.0,12.351117891500001,29.825546743367795,0.04451546,0.0962140965,0.35410025,3.7433454999999998,9.838928375,44.211945499999985,161.8744,"by grower, season",Spring,n/a,1.0
+farm_size_by_season_ha,31.0,42.00017985735484,151.07620705037786,0.04451546,0.11128864999999999,0.7082005,4.451546,17.603841000000003,120.191742,835.271904,"by grower, season",Summer,n/a,2.0
+farm_size_by_season_ha,29.0,16.15420458033944,35.205740672577754,0.04451546,0.10926522,0.404686,3.237488,10.2183215,84.0128135999999,161.8744,"by grower, season",Fall,n/a,3.0
+farm_size_by_season_ha,32.0,15.001436009638688,33.013012701993794,0.04451546,0.1197195341409,0.85995775,3.3386595,11.103572125,67.78490499999995,161.8744,"by grower, season",Winter,n/a,4.0
+hours_per_month_all_activities,32.0,156.84375,112.00231762435011,8.0,24.700000000000003,90.375,115.75,192.4375,376.95,452.5,"by grower, season",Spring,n/a,1.0
+hours_per_month_all_activities,31.0,114.31924516129033,96.68014298256851,0.0,12.833300000000001,38.75,90.0,154.75,311.0,384.0,"by grower, season",Summer,n/a,2.0
+hours_per_month_all_activities,29.0,69.72471144568965,75.59501116821944,1.433332,5.250000000000001,17.25,43.5,78.0,208.59999999999994,305.0,"by grower, season",Fall,n/a,3.0
+hours_per_month_all_activities,32.0,29.085930996562503,50.42078409565712,0.0,0.0,1.5625,10.999998999999999,34.8125,101.39999999999996,257.0,"by grower, season",Winter,n/a,4.0
+hours_per_month_at_site,32.0,199.89609374999998,115.76885638741099,8.7,35.67,121.79999999999998,178.35,281.66249999999997,365.4,502.425,"by grower, season",Spring,n/a,1.0
+hours_per_month_at_site,31.0,204.59032258064514,132.0900683368201,10.875,33.7125,91.35,184.875,304.49999999999994,411.075,487.19999999999993,"by grower, season",Summer,n/a,2.0
+hours_per_month_at_site,29.0,140.92499997,97.22618274997618,4.35,13.92,65.25,156.6,182.7,326.2499999999999,347.99999912999994,"by grower, season",Fall,n/a,3.0
+hours_per_month_at_site,32.0,76.79925,70.92670277397009,0.0,1.19625,17.4,54.375,132.675,177.915,282.576,"by grower, season",Winter,n/a,4.0
+produce_consume_freq,29.0,12.844827586206897,10.839003189767187,1.0,1.0,3.0,10.0,20.0,30.0,30.0,"by grower, season",Spring,n/a,1.0
+produce_consume_freq,28.0,14.982142857142858,17.267761732143956,2.0,2.35,4.375,10.0,21.0,30.0,90.0,"by grower, season",Summer,n/a,2.0
+produce_consume_freq,21.0,9.714285714285714,9.312050564418435,1.0,1.5,2.5,5.0,15.0,30.0,30.0,"by grower, season",Fall,n/a,3.0
+produce_consume_freq,12.0,6.375,6.435431044403531,2.0,2.0,3.0,3.5,8.0,16.74999999999999,25.0,"by grower, season",Winter,n/a,4.0
+soil_face_days_per_month,28.0,13.357142857142858,10.170634146492487,1.0,1.35,4.375,12.0,20.0,30.0,30.0,"by grower, season",Spring,n/a,1.0
+soil_face_days_per_month,18.0,12.75,9.723001836155454,2.0,2.0,5.0,9.5,23.0,25.749999999999993,30.0,"by grower, season",Summer,n/a,2.0
+soil_face_days_per_month,19.0,4.973684210526316,5.266439035720348,1.0,1.0,2.0,2.0,6.0,15.49999999999999,20.0,"by grower, season",Fall,n/a,3.0
+soil_face_days_per_month,11.0,4.5,5.324471804789654,1.0,1.0,1.5,2.0,4.25,15.0,15.0,"by grower, season",Winter,n/a,4.0
+soil_ingest_days_per_month,17.0,7.9411764705882355,9.385631227009283,1.0,1.0,2.0,4.0,10.0,30.0,30.0,"by grower, season",Spring,n/a,1.0
+soil_ingest_days_per_month,11.0,9.5,8.896628574915331,1.0,1.5,2.25,5.0,15.5,24.0,25.0,"by grower, season",Summer,n/a,2.0
+soil_ingest_days_per_month,7.0,5.285714285714286,5.707138387268052,1.0,1.0,1.5,2.0,7.5,14.199999999999996,16.0,"by grower, season",Fall,n/a,3.0
+soil_ingest_days_per_month,8.0,3.1875,2.724721479868565,1.0,1.0,1.0,2.0,5.0,7.274999999999999,8.5,"by grower, season",Winter,n/a,4.0
+contact_%,29.0,29.655172413793103,32.64886331653935,0.0,0.0,5.0,10.0,50.0,97.99999999999999,100.0,"by grower, season, activity",Spring,Harvesting,1.0
+contact_%,30.0,40.1,37.115244567567444,0.0,0.0,10.0,25.0,72.5,100.0,100.0,"by grower, season, activity",Spring,Preparing beds,1.0
+contact_%,32.0,45.90625,39.852436987855185,0.0,0.0,5.0,42.5,81.25,100.0,100.0,"by grower, season, activity",Spring,Seeding,1.0
+contact_%,30.0,85.83333333333333,25.86714509570584,0.0,33.50000000000001,86.25,100.0,100.0,100.0,100.0,"by grower, season, activity",Spring,Transplanting,1.0
+contact_%,31.0,9.806451612903226,22.85814129923765,0.0,0.0,0.0,0.0,7.0,62.5,90.0,"by grower, season, activity",Spring,Watering,1.0
+contact_%,31.0,71.19354838709677,31.366031897408497,0.0,12.5,50.0,80.0,100.0,100.0,100.0,"by grower, season, activity",Spring,Weeding,1.0
+contact_%,29.0,32.310344827586206,27.88510028194251,0.0,0.8000000000000003,10.0,25.0,50.0,85.99999999999997,100.0,"by grower, season, activity",Summer,Harvesting,2.0
+contact_%,21.0,46.19047619047619,37.812192541056184,0.0,0.0,10.0,50.0,75.0,100.0,100.0,"by grower, season, activity",Summer,Preparing beds,2.0
+contact_%,21.0,51.666666666666664,41.21811899314831,0.0,0.0,6.0,50.0,99.0,100.0,100.0,"by grower, season, activity",Summer,Seeding,2.0
+contact_%,20.0,83.25,24.988155088698367,10.0,48.0,75.0,97.5,100.0,100.0,100.0,"by grower, season, activity",Summer,Transplanting,2.0
+contact_%,27.0,4.2592592592592595,10.62505237124683,0.0,0.0,0.0,0.0,5.0,20.49999999999999,50.0,"by grower, season, activity",Summer,Watering,2.0
+contact_%,27.0,80.74074074074075,29.24379302004838,10.0,10.0,75.0,95.0,100.0,100.0,100.0,"by grower, season, activity",Summer,Weeding,2.0
+contact_%,29.0,35.275862068965516,31.875759432660846,0.0,0.0,10.0,30.0,50.0,97.99999999999999,100.0,"by grower, season, activity",Fall,Harvesting,3.0
+contact_%,21.0,36.76190476190476,33.07099146065138,0.0,2.0,10.0,25.0,60.0,90.0,100.0,"by grower, season, activity",Fall,Preparing beds,3.0
+contact_%,18.0,48.05555555555556,39.70993685423486,0.0,0.0,1.25,50.0,80.0,100.0,100.0,"by grower, season, activity",Fall,Seeding,3.0
+contact_%,12.0,93.75,7.723929758166558,80.0,80.0,90.0,97.5,100.0,100.0,100.0,"by grower, season, activity",Fall,Transplanting,3.0
+contact_%,19.0,10.526315789473685,24.82688601105358,0.0,0.0,0.0,0.0,10.0,54.99999999999989,100.0,"by grower, season, activity",Fall,Watering,3.0
+contact_%,21.0,62.142857142857146,35.23391223563701,0.0,0.0,50.0,70.0,95.0,100.0,100.0,"by grower, season, activity",Fall,Weeding,3.0
+contact_%,18.0,48.333333333333336,31.48295523911685,0.0,0.0,25.0,50.0,75.0,100.0,100.0,"by grower, season, activity",Winter,Harvesting,4.0
+contact_%,14.0,41.07142857142857,26.9742449404963,0.0,0.0,25.0,40.0,50.0,83.5,90.0,"by grower, season, activity",Winter,Preparing beds,4.0
+contact_%,9.0,57.22222222222222,45.35354941395926,0.0,0.0,0.0,85.0,90.0,100.0,100.0,"by grower, season, activity",Winter,Seeding,4.0
+contact_%,4.0,92.5,9.574271077563381,80.0,81.5,87.5,95.0,100.0,100.0,100.0,"by grower, season, activity",Winter,Transplanting,4.0
+contact_%,13.0,5.461538461538462,13.733264874113662,0.0,0.0,0.0,0.0,5.0,25.999999999999943,50.0,"by grower, season, activity",Winter,Watering,4.0
+contact_%,15.0,73.73333333333333,30.620876787546354,10.0,17.0,50.0,80.0,100.0,100.0,100.0,"by grower, season, activity",Winter,Weeding,4.0
+days_per_month_by_activity,32.0,7.765625,6.457034642230731,0.0,0.0,2.0,8.0,9.25,20.0,24.0,"by grower, season, activity",Spring,Harvesting,1.0
+days_per_month_by_activity,32.0,7.125,6.343653165477363,0.0,0.55,4.0,5.0,10.0,18.599999999999994,30.0,"by grower, season, activity",Spring,Preparing beds,1.0
+days_per_month_by_activity,32.0,7.40625,7.864207914916305,1.0,1.0,2.0,4.0,8.5,22.45,30.0,"by grower, season, activity",Spring,Seeding,1.0
+days_per_month_by_activity,32.0,7.3125,6.8929019124163915,0.0,0.55,3.5,5.5,7.25,23.0,25.0,"by grower, season, activity",Spring,Transplanting,1.0
+days_per_month_by_activity,32.0,19.0625,10.191512914374929,0.0,4.0,10.0,20.0,29.25,30.0,30.0,"by grower, season, activity",Spring,Watering,1.0
+days_per_month_by_activity,32.0,11.328125,8.009681012334688,0.0,1.55,4.75,9.5,16.5,24.499999999999993,30.0,"by grower, season, activity",Spring,Weeding,1.0
+days_per_month_by_activity,31.0,12.5,7.358668357794092,0.0,1.5,8.0,12.0,16.5,24.5,30.0,"by grower, season, activity",Summer,Harvesting,2.0
+days_per_month_by_activity,31.0,2.967741935483871,3.227319537611586,0.0,0.0,0.0,2.5,5.0,7.5,15.0,"by grower, season, activity",Summer,Preparing beds,2.0
+days_per_month_by_activity,31.0,2.2903225806451615,5.342867821604779,0.0,0.0,0.0,1.0,2.0,5.0,30.0,"by grower, season, activity",Summer,Seeding,2.0
+days_per_month_by_activity,31.0,2.064516129032258,3.7052708751270163,0.0,0.0,0.0,1.0,2.0,5.0,20.0,"by grower, season, activity",Summer,Transplanting,2.0
+days_per_month_by_activity,31.0,13.32258064516129,9.957868234966067,0.0,0.0,6.5,10.0,20.0,30.0,30.0,"by grower, season, activity",Summer,Watering,2.0
+days_per_month_by_activity,31.0,11.0,9.902861539306034,0.0,0.0,4.0,8.0,13.5,30.0,30.0,"by grower, season, activity",Summer,Weeding,2.0
+days_per_month_by_activity,29.0,7.620689655172414,5.9531731820904215,1.0,1.0,4.0,6.0,10.0,19.199999999999996,25.0,"by grower, season, activity",Fall,Harvesting,3.0
+days_per_month_by_activity,29.0,4.155172413793103,4.340637396158092,0.0,0.0,0.0,4.0,5.0,10.0,20.0,"by grower, season, activity",Fall,Preparing beds,3.0
+days_per_month_by_activity,29.0,1.7241379310344827,1.980197532068418,0.0,0.0,0.0,1.0,3.0,5.0,8.0,"by grower, season, activity",Fall,Seeding,3.0
+days_per_month_by_activity,29.0,1.896551724137931,5.550706696231228,0.0,0.0,0.0,0.0,2.0,4.0,30.0,"by grower, season, activity",Fall,Transplanting,3.0
+days_per_month_by_activity,29.0,6.482758620689655,9.14416554677342,0.0,0.0,0.0,3.0,10.0,30.0,30.0,"by grower, season, activity",Fall,Watering,3.0
+days_per_month_by_activity,29.0,5.344827586206897,7.455946150886962,0.0,0.0,0.0,3.0,5.0,20.0,30.0,"by grower, season, activity",Fall,Weeding,3.0
+days_per_month_by_activity,32.0,2.78125,3.799273062896587,0.0,0.0,0.0,1.0,4.0,8.899999999999999,16.0,"by grower, season, activity",Winter,Harvesting,4.0
+days_per_month_by_activity,32.0,1.46875,2.1096456666250085,0.0,0.0,0.0,0.0,2.25,5.899999999999999,7.0,"by grower, season, activity",Winter,Preparing beds,4.0
+days_per_month_by_activity,32.0,0.75,1.481063262354709,0.0,0.0,0.0,0.0,1.0,4.0,6.0,"by grower, season, activity",Winter,Seeding,4.0
+days_per_month_by_activity,32.0,0.34375,1.1530989102302514,0.0,0.0,0.0,0.0,0.0,2.0,6.0,"by grower, season, activity",Winter,Transplanting,4.0
+days_per_month_by_activity,32.0,5.21875,9.118341583084417,0.0,0.0,0.0,0.0,5.75,29.45,30.0,"by grower, season, activity",Winter,Watering,4.0
+days_per_month_by_activity,32.0,1.59375,3.0570845799604984,0.0,0.0,0.0,0.0,2.0,5.799999999999997,15.0,"by grower, season, activity",Winter,Weeding,4.0
+gloves_%,13.0,60.23076923076923,34.19101696389917,8.0,9.2,40.0,50.0,100.0,100.0,100.0,"by grower, season, activity",Spring,Harvesting,1.0
+gloves_%,26.0,66.3076923076923,35.502979289934785,5.0,10.0,35.0,75.0,100.0,100.0,100.0,"by grower, season, activity",Spring,Preparing beds,1.0
+gloves_%,11.0,64.0,31.336879231984796,5.0,15.0,50.0,70.0,89.5,100.0,100.0,"by grower, season, activity",Spring,Seeding,1.0
+gloves_%,17.0,77.94117647058823,26.460986820778466,15.0,43.0,50.0,90.0,100.0,100.0,100.0,"by grower, season, activity",Spring,Transplanting,1.0
+gloves_%,6.0,62.0,40.536403392506344,25.0,25.0,25.0,61.5,98.75,99.75,100.0,"by grower, season, activity",Spring,Watering,1.0
+gloves_%,26.0,70.57692307692308,31.97895942887833,5.0,12.5,50.0,85.0,100.0,100.0,100.0,"by grower, season, activity",Spring,Weeding,1.0
+gloves_%,13.0,55.38461538461539,40.024031242780595,10.0,10.0,20.0,50.0,100.0,100.0,100.0,"by grower, season, activity",Summer,Harvesting,2.0
+gloves_%,14.0,71.64285714285714,28.513443908382648,25.0,28.25,50.0,74.5,100.0,100.0,100.0,"by grower, season, activity",Summer,Preparing beds,2.0
+gloves_%,6.0,89.16666666666667,19.60017006728938,50.0,60.0,91.25,97.5,100.0,100.0,100.0,"by grower, season, activity",Summer,Seeding,2.0
+gloves_%,11.0,69.0909090909091,34.41062203870934,15.0,17.5,45.0,90.0,100.0,100.0,100.0,"by grower, season, activity",Summer,Transplanting,2.0
+gloves_%,7.0,49.42857142857143,41.58067316617639,1.0,3.7,12.5,50.0,85.0,98.5,100.0,"by grower, season, activity",Summer,Watering,2.0
+gloves_%,20.0,64.1,33.54478546032077,2.0,19.1,30.0,75.0,99.25,100.0,100.0,"by grower, season, activity",Summer,Weeding,2.0
+gloves_%,13.0,60.76923076923077,39.04304002455462,10.0,10.0,20.0,50.0,100.0,100.0,100.0,"by grower, season, activity",Fall,Harvesting,3.0
+gloves_%,12.0,58.25,40.20430777461992,3.0,5.75,23.75,62.5,100.0,100.0,100.0,"by grower, season, activity",Fall,Preparing beds,3.0
+gloves_%,7.0,55.857142857142854,43.74710874800213,3.0,4.5,16.5,60.0,97.5,100.0,100.0,"by grower, season, activity",Fall,Seeding,3.0
+gloves_%,5.0,81.0,39.74921382870358,10.0,27.0,95.0,100.0,100.0,100.0,100.0,"by grower, season, activity",Fall,Transplanting,3.0
+gloves_%,8.0,76.25,35.0255009141299,10.0,24.0,50.0,100.0,100.0,100.0,100.0,"by grower, season, activity",Fall,Watering,3.0
+gloves_%,12.0,78.75,24.2266757559063,30.0,41.0,68.75,82.5,100.0,100.0,100.0,"by grower, season, activity",Fall,Weeding,3.0
+gloves_%,10.0,90.0,16.32993161855452,50.0,63.5,82.5,100.0,100.0,100.0,100.0,"by grower, season, activity",Winter,Harvesting,4.0
+gloves_%,13.0,83.07692307692308,24.877906994163645,30.0,42.0,75.0,100.0,100.0,100.0,100.0,"by grower, season, activity",Winter,Preparing beds,4.0
+gloves_%,2.0,65.0,49.49747468305833,30.0,33.5,47.5,65.0,82.5,96.5,100.0,"by grower, season, activity",Winter,Seeding,4.0
+gloves_%,2.0,90.0,14.142135623730951,80.0,81.0,85.0,90.0,95.0,99.0,100.0,"by grower, season, activity",Winter,Transplanting,4.0
+gloves_%,3.0,93.33333333333333,11.547005383792516,80.0,82.0,90.0,100.0,100.0,100.0,100.0,"by grower, season, activity",Winter,Watering,4.0
+gloves_%,10.0,79.6,29.82243748887367,21.0,31.8,57.5,100.0,100.0,100.0,100.0,"by grower, season, activity",Winter,Weeding,4.0
+hours_per_day_by_activity,32.0,2.7109375,2.777435994878219,0.0,0.0,1.0,1.25,3.625,8.225,9.0,"by grower, season, activity",Spring,Harvesting,1.0
+hours_per_day_by_activity,32.0,3.359375,2.1968980147236636,0.0,0.55,2.0,3.0,4.0,7.449999999999999,10.0,"by grower, season, activity",Spring,Preparing beds,1.0
+hours_per_day_by_activity,32.0,2.2109375,1.6885637328329393,0.25,0.5,1.0,2.0,3.0,4.899999999999999,8.0,"by grower, season, activity",Spring,Seeding,1.0
+hours_per_day_by_activity,32.0,3.03125,2.1625011653921904,0.0,0.275,1.875,2.25,4.0,6.899999999999999,9.0,"by grower, season, activity",Spring,Transplanting,1.0
+hours_per_day_by_activity,32.0,2.103125,2.539524260120768,0.0,0.25,0.5,1.0,2.0,6.899999999999999,12.0,"by grower, season, activity",Spring,Watering,1.0
+hours_per_day_by_activity,32.0,2.2890625,1.817377336456168,0.0,0.3875,1.0,2.0,3.0,5.449999999999999,8.0,"by grower, season, activity",Spring,Weeding,1.0
+hours_per_day_by_activity,31.0,3.1370967741935485,2.735445355024037,0.0,0.125,1.0,2.0,4.75,8.0,10.0,"by grower, season, activity",Summer,Harvesting,2.0
+hours_per_day_by_activity,31.0,2.3225806451612905,2.4136707421711234,0.0,0.0,0.0,2.0,4.0,5.75,10.0,"by grower, season, activity",Summer,Preparing beds,2.0
+hours_per_day_by_activity,31.0,1.467741935483871,1.760376303857444,0.0,0.0,0.0,1.0,2.0,4.5,8.0,"by grower, season, activity",Summer,Seeding,2.0
+hours_per_day_by_activity,31.0,1.596774193548387,1.8726957166907356,0.0,0.0,0.0,1.0,2.5,5.0,6.5,"by grower, season, activity",Summer,Transplanting,2.0
+hours_per_day_by_activity,31.0,1.7632129032258064,1.9432595688244936,0.0,0.0,0.25,1.0,2.75,5.25,8.0,"by grower, season, activity",Summer,Watering,2.0
+hours_per_day_by_activity,31.0,1.9048387096774193,1.8488444516647726,0.0,0.0,0.625,1.0,3.0,6.0,6.0,"by grower, season, activity",Summer,Weeding,2.0
+hours_per_day_by_activity,29.0,2.574712528724138,2.316301134184526,0.25,0.28333200000000003,1.0,2.0,4.0,6.0,10.0,"by grower, season, activity",Fall,Harvesting,3.0
+hours_per_day_by_activity,29.0,2.678160896551724,2.433207390233345,0.0,0.0,0.0,2.5,4.5,6.0,8.0,"by grower, season, activity",Fall,Preparing beds,3.0
+hours_per_day_by_activity,29.0,1.5091954023103447,1.8589582880656483,0.0,0.0,0.0,1.0,2.0,5.799999999999999,6.0,"by grower, season, activity",Fall,Seeding,3.0
+hours_per_day_by_activity,29.0,0.9913793103448276,1.4857699402232285,0.0,0.0,0.0,0.0,1.5,4.299999999999999,5.0,"by grower, season, activity",Fall,Transplanting,3.0
+hours_per_day_by_activity,29.0,1.0747122986206896,1.7083109139132675,0.0,0.0,0.0,0.66666,1.0,3.9999999999999947,8.0,"by grower, season, activity",Fall,Watering,3.0
+hours_per_day_by_activity,29.0,1.5718390804482758,1.7939111271034796,0.0,0.0,0.0,1.0,3.0,4.0,8.0,"by grower, season, activity",Fall,Weeding,3.0
+hours_per_day_by_activity,32.0,1.36718540625,2.4097389533822,0.0,0.0,0.0,0.25,1.0,7.174999999999999,8.0,"by grower, season, activity",Winter,Harvesting,4.0
+hours_per_day_by_activity,32.0,1.671875,2.4049994131848256,0.0,0.0,0.0,0.0,3.25,6.0,7.0,"by grower, season, activity",Winter,Preparing beds,4.0
+hours_per_day_by_activity,32.0,0.9375,1.7631990720681359,0.0,0.0,0.0,0.0,1.0,4.725,6.0,"by grower, season, activity",Winter,Seeding,4.0
+hours_per_day_by_activity,32.0,0.359375,1.1446535960013011,0.0,0.0,0.0,0.0,0.0,3.1249999999999982,4.5,"by grower, season, activity",Winter,Transplanting,4.0
+hours_per_day_by_activity,32.0,0.502604124875,1.194837393817909,0.0,0.0,0.0,0.0,0.5,2.4499999999999993,6.0,"by grower, season, activity",Winter,Watering,4.0
+hours_per_day_by_activity,32.0,0.8776041665625001,1.5092285372005658,0.0,0.0,0.0,0.0,1.125,3.8999999999999986,6.0,"by grower, season, activity",Winter,Weeding,4.0
+hours_per_month_by_activity,32.0,20.703125,22.91555654691456,0.0,0.0,2.75,11.0,29.0,67.6,76.5,"by grower, season, activity",Spring,Harvesting,1.0
+hours_per_month_by_activity,32.0,28.75,51.37841896637022,0.0,1.1,7.875,20.0,32.0,42.25,300.0,"by grower, season, activity",Spring,Preparing beds,1.0
+hours_per_month_by_activity,32.0,15.046875,21.86878367895147,0.25,1.275,3.75,9.0,21.25,36.699999999999996,120.0,"by grower, season, activity",Spring,Seeding,1.0
+hours_per_month_by_activity,32.0,24.21875,31.96367330721428,0.0,0.55,6.0,14.0,31.5,77.04999999999995,150.0,"by grower, season, activity",Spring,Transplanting,1.0
+hours_per_month_by_activity,32.0,38.40625,64.30703035614229,0.0,3.55,10.0,18.75,37.0,100.675,360.0,"by grower, season, activity",Spring,Watering,1.0
+hours_per_month_by_activity,32.0,29.71875,37.67816547054549,0.0,0.775,9.5,15.5,34.0,120.0,160.0,"by grower, season, activity",Spring,Weeding,1.0
+hours_per_month_by_activity,31.0,42.524193548387096,42.27402447320683,0.0,0.375,9.0,30.0,67.0,116.5,168.0,"by grower, season, activity",Summer,Harvesting,2.0
+hours_per_month_by_activity,31.0,12.758064516129032,27.13941505379889,0.0,0.0,0.0,6.0,10.5,29.75,150.0,"by grower, season, activity",Summer,Preparing beds,2.0
+hours_per_month_by_activity,31.0,4.693548387096774,10.944311627016443,0.0,0.0,0.0,2.0,3.5,12.5,60.0,"by grower, season, activity",Summer,Seeding,2.0
+hours_per_month_by_activity,31.0,6.774193548387097,18.077997081939785,0.0,0.0,0.0,1.0,6.25,18.75,100.0,"by grower, season, activity",Summer,Transplanting,2.0
+hours_per_month_by_activity,31.0,26.74343870967742,34.03442483770099,0.0,0.0,2.915,15.0,38.75,67.5,165.0,"by grower, season, activity",Summer,Watering,2.0
+hours_per_month_by_activity,31.0,20.825806451612905,22.90803669373022,0.0,0.0,5.0,16.0,25.0,69.75,84.0,"by grower, season, activity",Summer,Weeding,2.0
+hours_per_month_by_activity,29.0,22.514367700862067,29.249915883319492,0.25,0.599998,4.0,10.0,32.0,83.99999999999991,120.0,"by grower, season, activity",Fall,Harvesting,3.0
+hours_per_month_by_activity,29.0,18.097701103448273,30.621878463981194,0.0,0.0,0.0,10.0,22.5,44.599999999999994,160.0,"by grower, season, activity",Fall,Preparing beds,3.0
+hours_per_month_by_activity,29.0,4.862643678172413,8.958807468257453,0.0,0.0,0.0,1.0,6.0,16.799999999999994,44.0,"by grower, season, activity",Fall,Seeding,3.0
+hours_per_month_by_activity,29.0,3.853448275862069,9.01623467333948,0.0,0.0,0.0,0.0,2.0,14.799999999999983,45.0,"by grower, season, activity",Fall,Transplanting,3.0
+hours_per_month_by_activity,29.0,10.272987468965518,18.292852139338766,0.0,0.0,0.0,1.6666666,10.0,47.999999999999936,75.0,"by grower, season, activity",Fall,Watering,3.0
+hours_per_month_by_activity,29.0,10.12356321837931,12.761755798345916,0.0,0.0,0.0,4.0,15.0,36.79999999999998,45.0,"by grower, season, activity",Fall,Weeding,3.0
+hours_per_month_by_activity,32.0,8.9609311875,25.077310837547618,0.0,0.0,0.0,0.625,4.0,46.39999999999998,128.0,"by grower, season, activity",Winter,Harvesting,4.0
+hours_per_month_by_activity,32.0,6.328125,11.233309751977417,0.0,0.0,0.0,0.0,12.0,26.349999999999998,49.0,"by grower, season, activity",Winter,Preparing beds,4.0
+hours_per_month_by_activity,32.0,2.421875,4.851187707914358,0.0,0.0,0.0,0.0,1.25,12.899999999999999,18.0,"by grower, season, activity",Winter,Seeding,4.0
+hours_per_month_by_activity,32.0,1.140625,4.834743838495579,0.0,0.0,0.0,0.0,0.0,4.225,27.0,"by grower, season, activity",Winter,Transplanting,4.0
+hours_per_month_by_activity,32.0,6.200520642499999,14.438813308635096,0.0,0.0,0.0,0.0,3.4374999975,41.39999999999999,60.0,"by grower, season, activity",Winter,Watering,4.0
+hours_per_month_by_activity,32.0,4.0338541665625005,13.305866523839109,0.0,0.0,0.0,0.0,2.5,10.899999999999999,75.0,"by grower, season, activity",Winter,Weeding,4.0
+wash_freq,23.0,91.95652173913044,15.648056111832274,50.0,52.5,92.5,100.0,100.0,100.0,100.0,"by grower, season, activity",Spring,Harvesting,1.0
+wash_freq,17.0,77.6470588235294,25.317832590070257,30.0,46.0,50.0,90.0,100.0,100.0,100.0,"by grower, season, activity",Spring,Preparing beds,1.0
+wash_freq,20.0,87.9,15.737651801032017,50.0,50.0,79.5,90.0,100.0,100.0,100.0,"by grower, season, activity",Spring,Seeding,1.0
+wash_freq,21.0,90.04761904761905,15.084681602460792,50.0,66.0,75.0,100.0,100.0,100.0,100.0,"by grower, season, activity",Spring,Transplanting,1.0
+wash_freq,16.0,79.6875,29.46572868039524,10.0,32.5,50.0,100.0,100.0,100.0,100.0,"by grower, season, activity",Spring,Watering,1.0
+wash_freq,22.0,86.18181818181819,19.241909527151464,50.0,50.0,80.0,100.0,100.0,100.0,100.0,"by grower, season, activity",Spring,Weeding,1.0
+wash_freq,22.0,92.95454545454545,13.152864155682423,50.0,75.0,91.25,100.0,100.0,100.0,100.0,"by grower, season, activity",Summer,Harvesting,2.0
+wash_freq,16.0,69.0625,26.659504246453395,5.0,38.75,50.0,75.0,90.0,100.0,100.0,"by grower, season, activity",Summer,Preparing beds,2.0
+wash_freq,14.0,90.71428571428571,18.48670445910362,50.0,50.0,96.25,100.0,100.0,100.0,100.0,"by grower, season, activity",Summer,Seeding,2.0
+wash_freq,12.0,84.16666666666667,21.829227002236053,50.0,50.0,68.75,97.5,100.0,100.0,100.0,"by grower, season, activity",Summer,Transplanting,2.0
+wash_freq,7.0,83.57142857142857,35.43941846238988,5.0,27.500000000000004,90.0,100.0,100.0,100.0,100.0,"by grower, season, activity",Summer,Watering,2.0
+wash_freq,18.0,79.05555555555556,23.939807415369227,20.0,31.05,75.0,82.5,100.0,100.0,100.0,"by grower, season, activity",Summer,Weeding,2.0
+wash_freq,22.0,82.5,28.691711097707046,10.0,30.0,76.25,100.0,100.0,100.0,100.0,"by grower, season, activity",Fall,Harvesting,3.0
+wash_freq,15.0,65.33333333333333,34.71653921746947,0.0,14.000000000000002,37.5,75.0,100.0,100.0,100.0,"by grower, season, activity",Fall,Preparing beds,3.0
+wash_freq,11.0,79.54545454545455,26.68843808229937,25.0,37.5,60.0,90.0,100.0,100.0,100.0,"by grower, season, activity",Fall,Seeding,3.0
+wash_freq,10.0,88.5,16.338434577536628,50.0,61.25,82.5,95.0,100.0,100.0,100.0,"by grower, season, activity",Fall,Transplanting,3.0
+wash_freq,7.0,84.28571428571429,30.472470011002205,20.0,35.0,85.0,100.0,100.0,100.0,100.0,"by grower, season, activity",Fall,Watering,3.0
+wash_freq,16.0,83.75,21.252450839060106,50.0,50.0,72.5,95.0,100.0,100.0,100.0,"by grower, season, activity",Fall,Weeding,3.0
+wash_freq,13.0,94.23076923076923,10.174755084307487,75.0,75.0,95.0,100.0,100.0,100.0,100.0,"by grower, season, activity",Winter,Harvesting,4.0
+wash_freq,8.0,95.625,8.634441002668988,75.0,82.0,95.0,100.0,100.0,100.0,100.0,"by grower, season, activity",Winter,Preparing beds,4.0
+wash_freq,8.0,97.5,7.0710678118654755,80.0,87.0,100.0,100.0,100.0,100.0,100.0,"by grower, season, activity",Winter,Seeding,4.0
+wash_freq,3.0,91.66666666666667,10.408329997330664,80.0,81.5,87.5,95.0,97.5,99.5,100.0,"by grower, season, activity",Winter,Transplanting,4.0
+wash_freq,4.0,100.0,0.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,"by grower, season, activity",Winter,Watering,4.0
+wash_freq,10.0,95.0,9.428090415820634,75.0,77.25,96.25,100.0,100.0,100.0,100.0,"by grower, season, activity",Winter,Weeding,4.0

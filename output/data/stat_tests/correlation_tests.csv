@@ -1,0 +1,6 @@
+x,y,n,statistic,p_value,test,significance,sig*,sig+/-,direction,specificity
+farm_size_by_season_ha,hours_per_month_at_site,124,0.1583189610285619,0.07905352703798967,pearson_r,,,,positive,by season
+farm_size_by_season_ha,hours_per_month_all_activities,124,0.025286594290546104,0.7804194801685057,pearson_r,,,,positive,by season
+employment_status,hours_per_month_at_site,124,-0.1442454575803114,0.048342854754034076,kendall_tau,P<0.05,*,-,negative,by season
+employment_status,hours_per_month_all_activities,124,0.0433882516768309,0.5487511679194653,kendall_tau,,,,positive,by season
+hours_per_month_at_site,hours_per_month_all_activities,124,0.6637009457625634,4.4402900746217137e-17,pearson_r,P<0.001,***,+++,positive,by season

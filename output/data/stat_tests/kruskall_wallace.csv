@@ -1,0 +1,5 @@
+h_statistic,p_value,group,y,medians_equal_across_groups,specificity
+20.670405967800132,0.00012324106803820252,season,days_per_month_at_site,no,by season
+26.054834125316063,9.288574355802671e-06,season,hours_per_month_at_site,no,by season
+43.07345288831303,2.374194818874956e-09,season,hours_per_month_all_activities,no,by season
+29.992221976159644,1.4800662479022104e-05,activity,hours_per_month_all_seasons,no,by activity
